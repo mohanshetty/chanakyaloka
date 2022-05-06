@@ -1,2 +1,0 @@
-# chanakyaloka
-Chanakyaloka HTML Code
